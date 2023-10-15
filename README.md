@@ -13,7 +13,7 @@ Welcome to the realm of limitless possibilities! 🚀 Step into my code universe
 1. WildFire statistics: Findout the hidden relationship between wildfire and disease incidence rate (Data Science)
 2. NLPs: Natural Language for Thai language pattern [Open For Collaborators Soon]
 3. Microscope DeepVisions: Unleashing the power of deep learning, this project aims to revolutionize image recognition algorithms, segmentation and identification of human slides. Stay tuned for new technology! [Open For Collaborators]
-4. Visucal Scan: Shake the world by revolutionize the way we can make 3D scan, AR [Open For Collaborators Soon]
+4. Visual Scan: Shake the world by revolutionize the way we can make 3D scan, AR [Open For Collaborators Soon]
 5. Anti-Fake News system: algorithms to sort news for you with 2 sides [Open For Collaborators]
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/khemjirath-hengswat/](https://www.linkedin.com/in/khemjirath-hengswat/)
