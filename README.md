@@ -9,7 +9,7 @@ Welcome to the realm of limitless possibilities! 🚀 Step into my code universe
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyspirit&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyspirit" /> </p>
 
-#### 🔭 Current projects:
+#### 🔭 Example of Current projects:
 1. WildFire statistics: Findout the hidden relationship between wildfire and disease incidence rate (Data Science)
 2. NLPs: Natural Language for Thai language pattern [Open For Collaborators Soon]
 3. Microscope DeepVisions: Unleashing the power of deep learning, this project aims to revolutionize image recognition algorithms, segmentation and identification of human slides. Stay tuned for new technology! [Open For Collaborators]
