@@ -5,16 +5,15 @@
 Welcome to the realm of limitless possibilities! 🚀 Step into my code universe where ideas come to life and innovation knows no bounds.
 
 <h1 align="center">Hi 👋, I'm Jeffrey KH</h1>
-<h3 align="center">Innovative full-stack developer 🔥passionate about pushing boundaries. Open for collaboration ! Let's create something amazing together! ✌🏻</h3>
+<h3 align="center">Innovative  developer 🔥passionate about pushing boundaries. Open for collaboration ! Let's create something amazing together! ✌🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyspirit&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyspirit" /> </p>
 
-#### 🔭 Example of Current projects:
-1. WildFire statistics: Findout the hidden relationship between wildfire and disease incidence rate (Data Science)
-2. NLPs: Natural Language for Thai language pattern [Open For Collaborators Soon]
-3. Microscope DeepVisions: Unleashing the power of deep learning, this project aims to revolutionize image recognition algorithms, segmentation and identification of human slides. Stay tuned for new technology! [Open For Collaborators]
-4. Visual Scan: Shake the world by revolutionize the way we can make 3D scan, AR [Open For Collaborators Soon]
-5. Anti-Fake News system: algorithms to sort news for you with 2 sides [Open For Collaborators]
+#### 🔭 My Current projects:
+1. Automated Skin Patch Test
+2. Formal Documents AI
+3. Deep learning model for continuous gait analysis for wearable sensors
+4. AI for Medical
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/khemjirath-hengswat/](https://www.linkedin.com/in/khemjirath-hengswat/)
 
